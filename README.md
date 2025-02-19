@@ -34,7 +34,13 @@
 
 8. **[Online Library Web App](https://github.com/DivineTheAnalyst/online-library-webapp.git)**  
    A web application for managing an online library.  
-   Tools: Python, Flask, Docker.  
+   Tools: Python, Flask, Docker.
+
+9. **[Python Scripts for EKS Cluster](https://github.com/DivineTheAnalyst/Python-Script.git)**
+    Scripts Creating and Deleting an Amazon EKS cluster
+   Tools: Python, boto3 module, AWS IAM
+
+
 
  
 
