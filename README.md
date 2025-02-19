@@ -26,7 +26,7 @@
 5. **[Kubernetes Configurations](https://github.com/DivineTheAnalyst/k8s-files.git)**  
    Contains Kubernetes deployment files and Helm charts for managing cloud-native applications.
 
-6. **[RBAC and Exposing applications on Kubernetes](https://github.com/DivineTheAnalyst/K8s-Project.git)** 
+6. **[RBAC and Exposing applications on Kubernetes](https://github.com/DivineTheAnalyst/K8s-Project.git)**
    Contains Kubernetes deployment, rbac, config-map and secret files for exposing cloud-native applications.
   
 7. **[Automation Scripts](https://github.com/DivineTheAnalyst/scripts.git)**  
